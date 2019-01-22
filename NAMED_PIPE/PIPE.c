@@ -6,6 +6,8 @@
 int main()
 {
 	int retval;
+	//creating for named PIPE
 	retval=mknod("PIPE",0644 | S_IFIFO,0);
+	
 	printf("%d\n",retval);
 }
