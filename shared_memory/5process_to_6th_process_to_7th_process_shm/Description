@@ -1,0 +1,20 @@
+/*************************************/
+/* Author      :Munusamy M           */
+/* Date        :22-01-2019           */
+/* Filename    :receiver_p6.c        */
+/* Description :collect all strings  */
+/*             from p1,p2,p3,p4,p5   */
+/*************************************/
+
+Description 
+
+            The given program is five different process pass a string via  message queue system passed 
+	    to process_6, process_6 get a string tranmit to process_7 and finally print a string.
+            
+            Process_1,process_2,process_3,process_4,process_5,pass a string to process_6(receiver_p6) 
+	    through message queue system call.
+            
+            Process_6 get a string once again pass a string to process_7(receiver_p7).
+            
+            Finally print a string in process_7.
+            
