@@ -1,0 +1,11 @@
+/*************************************/
+/* Author      :Munusamy M           */
+/* Date        :22-01-2019           */
+/* Filename    :Description          */
+/* Description :About the program    */
+/*                                   */
+/*************************************/
+
+Description
+            Given program actual function is perform like ls command to display the all 
+	    directories,and files using opendir and readdir system calls. 
