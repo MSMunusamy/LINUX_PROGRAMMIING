@@ -1,0 +1,13 @@
+/*************************************/
+/* Author      :Munusamy M           */
+/* Date        :22-01-2019           */
+/* Filename    :ls_header1.h         */
+/* Description :Explanation          */
+/*                                   */
+/*************************************/
+
+     ls - list directory contents.
+
+     List information about the files in the current directory.
+
+     my_ls.c as well as it will show list of the files in the current directory based on directory location it will show all files.
