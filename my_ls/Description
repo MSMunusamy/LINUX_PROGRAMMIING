@@ -6,8 +6,15 @@
 /*                                   */
 /*************************************/
 
-     ls - list directory contents.
+     DESCRIPTION
+                 ls -list the current directory contents
 
-     List information about the files in the current directory.
+RID1 :Name your execute as my_ls.c    ex: gcc -o my_ls filename.c
 
-     my_ls.c as well as it will show list of the files in the current directory based on directory location it will show all files.
+RID2 :Execute my_ls without parameters check list directory or current directory.
+
+RID3 :Execute my_ls with one argument to  pass argument is a directory or not
+
+RID4 :Execute my_ls with one argument  to read the directory and display the list of files directory
+
+RID5 :Close the dir.
