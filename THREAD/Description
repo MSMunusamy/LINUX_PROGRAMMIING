@@ -1,0 +1,9 @@
+/******************************************/
+/*Author     : Munusamy M                 */
+/*Date       : 06-02-2019                 */
+/*Filename   : pthread.c                  */
+/*Description: Operation of the program   */
+/******************************************/
+
+Description
+          In this program create a pthread, and compare pthread processing speed and actual processing speed. 
