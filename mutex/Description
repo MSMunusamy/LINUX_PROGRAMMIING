@@ -1,0 +1,16 @@
+ /**************************************/
+ /*Author     : Munusamy M             */
+ /*Date       : 07-02-2019             */
+ /*Filename   : mutex.h                */
+ /*Description: mutex headers          */
+ /**************************************/
+
+Description
+          
+          In Mutex has two states 
+	  
+         *  Locked
+         *  Unlocked	  
+
+	 If one thread as locked,another thread cannot access the same memory 
+	 after finishing a work should unlock the mutex. 
