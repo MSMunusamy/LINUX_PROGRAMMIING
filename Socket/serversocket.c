@@ -13,7 +13,7 @@
  /*Function definitions*/
  int main()
  {
-	int i,socket_fd1;
+	int socket_fd1;
 	struct sockaddr_un unix_addr;
 	socklen_t length;
 	char str1[200];
