@@ -22,7 +22,6 @@ struct sockaddr_in socketaddr;
 
 /* write some message in string */
 unsigned char str1[]="IPV4 SOCKET FROM CLIENT";
-unsigned char ip_addr[] = "192.168.43.106";
 socklen_t length = sizeof(struct sockaddr_in);
 
 /* socket - create an endpoint for communication  */
