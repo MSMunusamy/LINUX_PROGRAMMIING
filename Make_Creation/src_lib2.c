@@ -1,8 +1,8 @@
 /**************************************/
 /*Author     : Munusamy M             */
-/*Date       : 07-02-2019             */
-/*Filename   : mutex.c                */
-/*Description: mutex threading        */
+/*Date       : 14-03-2019             */
+/*Filename   : src_lib2.c             */
+/*Description: Function Definition    */
 /**************************************/
 
 #include "header_lib.h"
