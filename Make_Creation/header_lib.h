@@ -1,15 +1,14 @@
 /**************************************/
 /*Author     : Munusamy M             */
-/*Date       : 07-02-2019             */
-/*Filename   : mutex.c                */
-/*Description: mutex threading        */
+/*Date       : 14-03-2019             */
+/*Filename   : header_lib.h           */
+/*Description: Make creation          */
 /**************************************/
 
-#ifndef header_lib_h
-#define header_lib_h
+#ifndef HEADER_LIB_H
+#define HEADER_LIB_H
 #include <stdio.h>
 extern int var_lib;
 void addition(int a,int b);
 void subtract(int a,int b);
-#endif //header_lib_h
-
+#endif //HEADER_LIB_H
