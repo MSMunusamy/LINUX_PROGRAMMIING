@@ -2,7 +2,7 @@
 /*Author     : Munusamy M             */
 /*Date       : 14-03-2019             */
 /*Filename   : header_lib.h           */
-/*Description: Make creation          */
+/*Description: Prototypes             */
 /**************************************/
 
 #ifndef HEADER_LIB_H
