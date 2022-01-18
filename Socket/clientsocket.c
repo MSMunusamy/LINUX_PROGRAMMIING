@@ -8,7 +8,7 @@
  /* Included header files */
  #include"clientsocket.h"
 
- /*Global variable definitions*/ 
+ /*Global variable definitions*/
 
  /*Function definitions*/
 
