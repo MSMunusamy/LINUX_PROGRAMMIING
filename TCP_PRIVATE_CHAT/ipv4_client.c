@@ -1,6 +1,6 @@
 /*******************************************/
-/* Author	    : Munusamy M               */
-/* Date		    : 22-2-2019                */
+/* Author	    : Munusamy M           */
+/* Date		    : 22-2-2019            */
 /* Filename 	: ipv4_client.c            */
 /* Description	: socket client program    */
 /*******************************************/
